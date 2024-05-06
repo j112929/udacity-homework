@@ -1,3 +1,8 @@
 # udacity-homework
-##python 入门实例代码
-##各种python 机器学习项目代码
+1) titanic_survival_exploration
+2) robot_maze
+3) linear_regression
+4) finding_donors
+5) dog_cat_recognize
+6) creating_customer_segments
+7) boston_housing_predict 
